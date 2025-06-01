@@ -6,6 +6,7 @@ import {
   truckFast,
   twitter,
 } from "../assets/icons";
+
 import {
   bigShoe1,
   bigShoe2,
